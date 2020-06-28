@@ -1,0 +1,14 @@
+[
+    {
+        "name":"New York City, New York",
+        "type":"city",
+        "c":"US",
+        "zmw":"10001.5.99999",
+        "tz":"America/New_York",
+        "tzs":"EST",
+        "l":"/q/zmw:10001.5.99999",
+        "ll":"40.750134 -73.997009",
+        "lat":"40.750134",
+        "lon":"-73.997009"
+    }
+]
